@@ -9,7 +9,7 @@ A collection of Python programs I built to refresh my core programming skills wh
 3. **Even Number Filter** - Features list operations and loops
 4. **Temperature Converter** - Includes conditional logic and error handling
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3
 - Basic standard library modules
