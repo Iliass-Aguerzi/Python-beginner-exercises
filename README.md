@@ -14,9 +14,3 @@ A collection of Python programs I built to refresh my core programming skills.
 - Python 3
 - Basic standard library modules
 
-##  How to Run
-
-Each exercise is self-contained. Navigate to any exercise folder and run:
-
-```bash
-python exercise_name.py
