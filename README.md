@@ -1,6 +1,6 @@
 # Python Beginner Exercises 
 
-A collection of Python programs I built to refresh my core programming skills while preparing for CS Master's applications.
+A collection of Python programs I built to refresh my core programming skills.
 
 ##  Exercises
 
